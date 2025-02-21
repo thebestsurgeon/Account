@@ -1,0 +1,85 @@
+body{
+  background-color: white;
+  color:black;
+  margin: 10px;
+}
+/* edit profile picture*/
+.editpp{
+  width:40px;
+  height: 40px;
+  border-radius: 100px
+}
+/*arrange text*/
+.space{
+  text-indent: 10px;
+  font-size:14px;
+  font-weight: bold;
+}
+/*box design*/
+#box{
+  color:white;
+  background-color: blue;
+  padding:10px;
+  padding-bottom: 30px;
+  border-radius: 20px;
+}
+.fit{
+  text-transform: capitalize;
+}
+.fix{
+  font-size: 35px;
+  font-weight: bold;
+  
+}
+.bal{
+  color:black;
+  text-transform: capitalize;
+}
+.button{
+  text-align: center;
+  border:5px solid black;
+  text-decoration: none;
+  background-color: black;
+  color:white;
+  padding:6px 15px;
+  border-radius:5px;
+}
+.button2{
+  text-align: center;
+  border:5px solid blue;
+  background-color: blue;
+  margin-left:20px;
+  color:white;
+  text-decoration: none;
+  padding:6px 15px;
+  border-radius:5px;
+}
+/*shaping image*/
+.shape{
+  width:100%;
+}
+.arrange{
+  border:2px solid Navy;
+  padding:20px;
+  background-color:Navy;
+  color:white;
+  border-radius:5px;
+  text-align:center;
+}
+.go{
+  color:black;
+  background-color:grey;
+  border:2px solid white;
+  padding:20px ;
+  text-align:center;
+  border-radius: 5px;
+  
+}
+.other{
+  color:black;
+  background-color:grey;
+  padding:20px;
+  text-align:center;
+  border:2px solid white;
+  border-radius:5px;
+}
